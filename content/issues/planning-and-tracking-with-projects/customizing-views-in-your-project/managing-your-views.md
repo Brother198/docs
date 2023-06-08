@@ -1,7 +1,8 @@
----
+BratPL1989!
+LETS'GO...
 title: Managing your views
 intro: 'Learn how to create, save, and manage your project views.'
-versions:
+versions
   feature: projects-v2
 type: tutorial
 topics:
